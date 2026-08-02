@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pappu Singh</h1>
 
 <h3 align="center">
-Senior DevSecOps Engineer • Azure Cloud • Kubernetes • Terraform • CI/CD • DevSecOps
+Azure DevSecOps Lead • FinOps • Kubernetes • Terraform • CI/CD • AI Engineering Enthusiast | Exploring AIOps, MLOps & Generative AI
 </h3>
 
 <p align="center">
