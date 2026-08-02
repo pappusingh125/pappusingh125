@@ -78,61 +78,115 @@ I enjoy designing production-grade cloud infrastructure using Infrastructure as 
 
 # ☁ Azure Expertise
 
+<table>
+<tr>
+<td valign="top" width="33%">
+
 - Azure Landing Zone
 - Management Groups
 - Resource Groups
-- RBAC
 - Microsoft Entra ID
+- RBAC
 - Azure Policy
-- Azure Key Vault
 - Managed Identity
+
+</td>
+
+<td valign="top" width="33%">
+
+- Azure Key Vault
+- Storage Account
 - Azure Firewall
 - Azure Bastion
 - Azure Front Door
 - Load Balancer
 - VPN Gateway
+
+</td>
+
+<td valign="top" width="33%">
+
 - VNet Peering
 - Hub-Spoke Architecture
 - Private Endpoint
 - Private DNS
-- Storage Account
 - Azure Monitor
 - Log Analytics
 - Application Insights
+
+</td>
+</tr>
+</table>
 
 ---
 
 # ☸ Kubernetes
 
-- AKS
+<table>
+<tr>
+<td valign="top" width="33%">
+
+- Azure Kubernetes Service (AKS)
 - Deployments
 - ReplicaSets
 - StatefulSets
 - DaemonSets
+
+</td>
+
+<td valign="top" width="33%">
+
 - Services
 - Ingress
-- HPA
+- Horizontal Pod Autoscaler (HPA)
 - ConfigMaps
 - Secrets
-- Persistent Volumes
+
+</td>
+
+<td valign="top" width="33%">
+
+- Persistent Volumes (PV)
+- Persistent Volume Claims (PVC)
 - Azure CNI
 - Calico
 - AGIC
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 🏗 Terraform
 
+<table>
+<tr>
+<td valign="top" width="33%">
+
 - Modular Architecture
 - Reusable Modules
 - Remote Backend
+
+</td>
+
+<td valign="top" width="33%">
+
 - State Management
 - Dynamic Blocks
 - Variables
+
+</td>
+
+<td valign="top" width="33%">
+
 - Outputs
 - Enterprise Landing Zone
 - Infrastructure Automation
 
+</td>
+</tr>
+</table>
 ---
 
 # 🔐 DevSecOps
