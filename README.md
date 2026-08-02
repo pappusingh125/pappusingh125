@@ -1,85 +1,262 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=220&section=header&text=Pappu%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Azure%20DevSecOps%20Engineer%20|%20AKS%20|%20Terraform%20|%20CI/CD&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2563eb,100:06b6d4&text=Pappu%20Singh&fontColor=ffffff&fontSize=45&animation=fadeIn&desc=Senior%20DevSecOps%20Engineer%20|%20Azure%20|%20AKS%20|%20Terraform&descAlignY=62"/>
 </p>
+
+<h1 align="center">Hi 👋, I'm Pappu Singh</h1>
+
+<h3 align="center">
+Senior DevSecOps Engineer • Azure Cloud • Kubernetes • Terraform • CI/CD • DevSecOps
+</h3>
 
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Azure+DevSecOps+Engineer;Terraform+%7C+AKS+%7C+Azure;CI%2FCD+Automation;Cloud+Security;Learning+AIOps+%7C+MLOps+%7C+Generative+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Azure+DevSecOps+Engineer;Terraform+%7C+AKS+%7C+Docker;Azure+DevOps+%7C+GitHub+Actions;Cloud+Security+%7C+Platform+Engineering;Learning+AIOps+%7C+MLOps+%7C+Generative+AI)](https://git.io/typing-svg)
 
 </p>
 
-## 👋 Hi, I'm Pappu Singh
+---
 
-🚀 Azure DevSecOps Engineer at Tata Consultancy Services
+# 💎 About Me
 
-💙 Passionate about
+🚀 Senior DevSecOps Engineer passionate about building secure, scalable, and automated cloud platforms on Microsoft Azure.
 
-- Microsoft Azure
-- DevSecOps
-- Kubernetes
-- Terraform
-- GitHub Actions
-- Azure DevOps
-- Cloud Security
-- Platform Engineering
+I enjoy designing production-grade cloud infrastructure using Infrastructure as Code, Kubernetes, DevSecOps automation, enterprise networking, cloud governance, and security best practices.
 
-🌱 Currently Learning
+---
 
-- AIOps
-- MLOps
-- Generative AI
-- MCP
-- RAG
+## 🚀 What I Do
 
-- ## 🚀 Tech Stack
+- ☁ Microsoft Azure Cloud
+- ☸ Azure Kubernetes Service (AKS)
+- 🏗 Infrastructure as Code (Terraform)
+- ⚙ Azure DevOps Pipelines
+- ⚙ GitHub Actions
+- 🔐 DevSecOps Automation
+- 🛡 Cloud Security
+- 🌐 Azure Networking
+- 📊 Monitoring & Observability
+- 🤖 Infrastructure Automation
 
-### Cloud
+---
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+# 🛠 Tech Stack
 
-### IaC
+### ☁ Cloud
 
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+<p>
 
-### Containers
+<img src="https://skillicons.dev/icons?i=azure"/>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+</p>
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+---
 
-### CI/CD
+### 🚀 DevOps
 
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+<p>
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,git,bash,powershell"/>
 
-## 📈 GitHub Stats
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=pappusingh125&show_icons=true&theme=tokyonight)
+---
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=pappusingh125&theme=tokyonight)
+### 💻 Languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pappusingh125&layout=compact&theme=tokyonight)
+<p>
 
-## 🚀 Featured Projects
+<img src="https://skillicons.dev/icons?i=python,powershell,bash"/>
 
-- Enterprise Azure Landing Zone
-- AKS Platform Deployment
-- Terraform Modules
-- Azure Networking
-- Azure DevSecOps Pipeline
-- Azure Key Vault Integration
-- Azure Monitoring
-- Azure Firewall
+</p>
+
+---
+
+### 🗄 Database
+
+- Azure SQL Database
+- SQL Server
+- PostgreSQL
+- MongoDB
+
+---
+
+# ☁ Azure Expertise
+
+- Azure Landing Zone
+- Management Groups
+- Resource Groups
+- RBAC
+- Microsoft Entra ID
 - Azure Policy
+- Azure Key Vault
+- Managed Identity
+- Azure Firewall
+- Azure Bastion
+- Azure Front Door
+- Load Balancer
+- VPN Gateway
+- VNet Peering
+- Hub-Spoke Architecture
+- Private Endpoint
+- Private DNS
+- Storage Account
+- Azure Monitor
+- Log Analytics
+- Application Insights
 
-- ## 📫 Connect with Me
+---
 
-LinkedIn
+# ☸ Kubernetes
 
-https://linkedin.com/in/pappu-singh-93a35334
+- AKS
+- Deployments
+- ReplicaSets
+- StatefulSets
+- DaemonSets
+- Services
+- Ingress
+- HPA
+- ConfigMaps
+- Secrets
+- Persistent Volumes
+- Azure CNI
+- Calico
+- AGIC
 
-Email
+---
+
+# 🏗 Terraform
+
+- Modular Architecture
+- Reusable Modules
+- Remote Backend
+- State Management
+- Dynamic Blocks
+- Variables
+- Outputs
+- Enterprise Landing Zone
+- Infrastructure Automation
+
+---
+
+# 🔐 DevSecOps
+
+- GitHub Actions
+- Azure DevOps Pipelines
+- Terraform Security
+- tfsec
+- Checkov
+- TFLint
+- Trivy
+- Gitleaks
+- Super-Linter
+- Secret Scanning
+- IaC Security
+- Code Quality
+
+---
+
+# 📊 Monitoring
+
+- Azure Monitor
+- Log Analytics
+- Application Insights
+- Prometheus
+- Grafana
+- Datadog
+
+---
+
+# 🌱 Currently Learning
+
+- 🤖 AIOps
+- 🧠 MLOps
+- Large Language Models (LLMs)
+- Model Context Protocol (MCP)
+- Retrieval-Augmented Generation (RAG)
+- AI-powered Cloud Automation
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| Azure Landing Zone | Enterprise Azure Landing Zone using Terraform |
+| AKS Platform | Production-ready AKS deployment |
+| Azure Networking | Hub-Spoke Architecture |
+| Azure Firewall | Secure Network Architecture |
+| Azure DevSecOps | CI/CD + Security Pipeline |
+| Azure Key Vault | Secret Management |
+| Azure Monitoring | Azure Monitor + Grafana |
+| Terraform Modules | Reusable Enterprise Modules |
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pappusingh125&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pappusingh125&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pappusingh125&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=pappusingh125&theme=algolia&column=4"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pappusingh125&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/pappu-singh-93a35334/
+
+📧 Email
 
 pappuks02@gmail.com
+
+🐙 GitHub
+
+https://github.com/pappusingh125
+
+</p>
+
+---
+
+<p align="center">
+
 ![](https://komarev.com/ghpvc/?username=pappusingh125&style=for-the-badge)
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ Automate Everything • Secure by Default • Build for Scale ⭐
+
+</h3>
