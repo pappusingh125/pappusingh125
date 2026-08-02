@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2563eb,100:06b6d4&text=Pappu%20Singh&fontColor=ffffff&fontSize=45&animation=fadeIn&desc=Senior%20DevSecOps%20Engineer%20|%20Azure%20|%20AKS%20|%20Terraform&descAlignY=62"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Pappu Singh</h1>
 
 <h3 align="center">
