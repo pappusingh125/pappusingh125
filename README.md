@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0078D4,100:00B7C3&amp;height=200&amp;section=header&amp;text=Pappu%20Singh&amp;fontSize=54&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Lead%20DevSecOps%20Engineer%20%7C%20Cloud%20Security%20%26%20Cost%20Optimization&amp;descSize=18&amp;descAlignY=58" width="100%" alt="Pappu Singh banner"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=46&amp;pause=1500&amp;color=0078D4&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=90&amp;lines=Pappu+Singh;Lead+DevSecOps+Engineer;Cloud+Security+%26+Cost+Optimization" alt="Pappu Singh"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1200&amp;color=0078D4&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Secure.+Scalable.+Automated.+Cost-Optimized.;Azure+Landing+Zones+%7C+Terraform+%7C+Kubernetes;Security+%26+Cost+Optimization+Expert;SQL+Server+%7C+PostgreSQL+%7C+MongoDB;Exploring+AIOps+%7C+MLOps+%7C+LLMs+%7C+RAG+%7C+MCP" alt="Typing animation"/>
 
@@ -35,9 +35,43 @@ I specialize in designing **secure, scalable, cost-optimized and automated cloud
 
 I enjoy building **production-grade CI/CD pipelines, Infrastructure as Code, Kubernetes platforms, DevSecOps automation, cloud governance, enterprise landing zones and secure, right-sized architectures**, backed by hands-on **Microsoft SQL Server, PostgreSQL and MongoDB** expertise.
 
-<div align="center">
-<img src="./assets/azure-landing-zone.svg" width="800" alt="Azure Landing Zone hub and spoke architecture"/>
-</div>
+```mermaid
+flowchart TB
+    MG["🏛️ Management Groups<br/>Azure Policy · RBAC · Governance"]
+
+    subgraph PLAT["🧱 Platform Landing Zone"]
+        direction LR
+        HUB["🌐 Connectivity<br/>Hub VNet · Firewall · Private connectivity"]
+        ID["🪪 Identity<br/>RBAC · Managed Identity"]
+        SEC["🔐 Security<br/>Defender · Key Vault"]
+    end
+
+    subgraph SPOKE["🚀 Spoke Workloads"]
+        direction LR
+        DEV["🧪 Dev<br/>AKS · Container Apps · Web Apps"]
+        QA["✅ QA<br/>AKS · Container Apps · Web Apps"]
+        PROD["🏭 Prod<br/>Approval gate · HA and DR"]
+    end
+
+    DATA["🗄️ Data Platforms<br/>SQL Server · PostgreSQL · MongoDB"]
+    OBS["📊 Observability and Cost Governance<br/>Azure Monitor · Datadog · Prometheus · Grafana"]
+
+    MG --> PLAT
+    PLAT --> SPOKE
+    SPOKE --> DATA
+    SPOKE --> OBS
+
+    classDef gov fill:#e8f1fb,stroke:#0078D4,color:#0b1b30,stroke-width:2px
+    classDef sec fill:#fdecec,stroke:#d32f2f,color:#3b0d0d
+    classDef prod fill:#fff4e0,stroke:#f59e0b,color:#3a2a00,stroke-width:2px
+    classDef data fill:#e6f7ee,stroke:#00a86b,color:#06301f
+    classDef ops fill:#e6f7f8,stroke:#00b7c3,color:#053235
+    class MG gov
+    class SEC sec
+    class PROD prod
+    class DATA data
+    class OBS ops
+```
 
 <br/>
 
@@ -170,9 +204,19 @@ I enjoy building **production-grade CI/CD pipelines, Infrastructure as Code, Kub
 
 > Every change is scanned, cost-checked and approved before it reaches Azure.
 
-<div align="center">
-<img src="./assets/devsecops-pipeline.svg" width="900" alt="DevSecOps pipeline with security, cost and approval gates"/>
-</div>
+```mermaid
+flowchart LR
+    A["💻 Commit"] --> B["🔍 TFLint"] --> C["🛡️ tfsec + Checkov"] --> D["📐 Plan"] --> E["💰 Cost Estimate"] --> F{"✅ Approval"} --> G["🚀 Deploy"] --> H["📊 Monitor"] --> I["🤖 AIOps"]
+
+    classDef sec fill:#fdecec,stroke:#d32f2f,color:#3b0d0d
+    classDef cost fill:#e6f7ee,stroke:#00a86b,color:#06301f
+    classDef gate fill:#fff4e0,stroke:#f59e0b,color:#3a2a00,stroke-width:2px
+    classDef ops fill:#e6f7f8,stroke:#00b7c3,color:#053235
+    class B,C sec
+    class E cost
+    class F gate
+    class H,I ops
+```
 
 - 🛡️ Shift-left security with **TFLint, tfsec and Checkov** on every change
 - 🔑 Secret scanning, policy and governance, least privilege and network segmentation
@@ -183,9 +227,25 @@ I enjoy building **production-grade CI/CD pipelines, Infrastructure as Code, Kub
 
 # 🌱 Currently Exploring
 
-<div align="center">
-<img src="./assets/aiops-llm-rag-mcp.svg" width="800" alt="AIOps, LLM, RAG and MCP flow with guardrails"/>
-</div>
+```mermaid
+flowchart LR
+    S["📡 Signals<br/>Azure Monitor · Datadog · Prometheus"] --> R["📚 RAG<br/>Runbooks · Docs · IaC repos"] --> L["🧠 LLM<br/>Incident analysis · Troubleshooting"] --> M["🔗 MCP<br/>Scoped tool access"] --> T["⚙️ Tools<br/>Azure · Terraform · Kubernetes"]
+    G["🛡️ Guardrails<br/>Human approval · Least privilege · Security and cost checks"] -.-> M
+    ML["🔁 MLOps lifecycle<br/>Data · Train · Version · Deploy · Monitor"] -.-> L
+
+    classDef sig fill:#e8f1fb,stroke:#0078D4,color:#0b1b30
+    classDef rag fill:#e6f7f8,stroke:#00b7c3,color:#053235
+    classDef llm fill:#efeafd,stroke:#7c5cf0,color:#1d1240
+    classDef mcp fill:#fff4e0,stroke:#f59e0b,color:#3a2a00,stroke-width:2px
+    classDef tool fill:#e6f7ee,stroke:#00a86b,color:#06301f
+    classDef guard fill:#fdecec,stroke:#d32f2f,color:#3b0d0d
+    class S sig
+    class R rag
+    class L,ML llm
+    class M mcp
+    class T tool
+    class G guard
+```
 
 <br/>
 
@@ -239,6 +299,5 @@ I'm open to conversations on **cloud security, cost optimization, DevSecOps, inf
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Automate+Everything.;Secure+by+Default.;Optimize+Every+Dollar.;Build+for+Scale." alt="Typing SVG"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00B7C3,100:0078D4&amp;height=110&amp;section=footer" width="100%" alt="footer"/>
 
 </div>
