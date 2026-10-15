@@ -2,10 +2,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00B7C3&height=190&section=header&text=Pappu%20Singh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Lead%20DevSecOps%20Engineer%20%7C%20Azure%20Cloud%20%7C%20Infrastructure%20Automation&descSize=17&descAlignY=58" width="100%" alt="Pappu Singh banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00B7C3&height=190&section=header&text=Pappu%20Singh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Lead%20DevSecOps%20Engineer%20%7C%20Cloud%20Security%20%26%20FinOps%20%7C%20AIOps%20%26%20MLOps&descSize=17&descAlignY=58" width="100%" alt="Pappu Singh banner"/>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0078D4&center=true&vCenter=true&width=700&lines=Secure.+Scalable.+Automated.+Cost-Optimized.;Azure+Landing+Zones+%7C+Terraform+%7C+Kubernetes;DevSecOps+%E2%80%A2+FinOps+%E2%80%A2+AIOps" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0078D4&center=true&vCenter=true&width=800&lines=Secure.+Scalable.+Automated.+Cost-Optimized.;Azure+Landing+Zones+%7C+Terraform+%7C+Kubernetes;Security+%26+Cost+Optimization+Expert;Exploring+AIOps+%E2%80%A2+MLOps+%E2%80%A2+LLMs+%E2%80%A2+RAG+%E2%80%A2+MCP" alt="Typing animation"/>
 </a>
 
 <br/>
@@ -20,16 +20,17 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Lead DevSecOps Engineer** who designs and automates secure, scalable and cost-optimized cloud platforms. My work spans **Cloud Infrastructure, DevOps, DevSecOps and Database Administration**, with deep focus on:
+I'm a **Lead DevSecOps Engineer** who designs and automates secure, scalable and cost-optimized cloud platforms. My work spans **Cloud Infrastructure, DevOps, DevSecOps and Database Administration**, and I specialize in two things that matter in every cloud engagement: **security** and **cost optimization**.
 
 - 🏛️ **Azure Landing Zones** and Hub & Spoke architecture
 - 🏗️ **Terraform** Infrastructure as Code with reusable, governed modules
-- 🔁 **CI/CD automation** with security gates built into every pipeline
+- 🔐 **Cloud security**: shift-left scanning, policy as code, secrets hygiene and least-privilege design
+- 💰 **Cost optimization / FinOps**: cost estimation in pipelines, right-sizing and cost-aware architecture
+- 🔁 **CI/CD automation** with security and cost gates built into every pipeline
 - ☸️ **Kubernetes / AKS, Container Apps and Web Apps** for production workloads
 - 📊 **Observability** with Azure Monitor, Datadog, Prometheus and Grafana
-- 💰 **FinOps** and cloud cost optimization
 
-> 🚀 **Currently exploring:** Agentic AI, AIOps and intelligent infrastructure automation.
+> 🚀 **Currently exploring:** **AIOps** and **MLOps**, while learning **LLMs, RAG (Retrieval-Augmented Generation) and MCP (Model Context Protocol)** to build intelligent, agent-driven infrastructure automation.
 
 ---
 
@@ -37,11 +38,12 @@ I'm a **Lead DevSecOps Engineer** who designs and automates secure, scalable and
 
 | Strength | What I Bring |
 |---|---|
+| **Security expertise** | Shift-left scanning (TFLint, tfsec, Checkov), policy and governance, approval-gated production changes and secure-by-default architecture |
+| **Cost optimization** | Cost estimation before deployment, right-sized resources and FinOps-driven design decisions |
 | **Architecture** | Enterprise-grade Azure Landing Zones with proper network segmentation, HA and DR |
 | **Automation** | Fully codified infrastructure: repeatable, reviewable, version-controlled |
-| **Security-first** | Shift-left scanning (TFLint, tfsec, Checkov) and approval-gated production changes |
-| **Cost awareness** | Cost estimation in pipelines and right-sized, cost-aware design |
 | **Full-stack ops** | From cloud networking to Kubernetes to database administration |
+| **AI-ready mindset** | Applying AIOps, MLOps, LLMs, RAG and MCP to make operations smarter and faster |
 
 ---
 
@@ -77,15 +79,29 @@ I'm a **Lead DevSecOps Engineer** who designs and automates secure, scalable and
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 DevSecOps & Security
+### 🔐 Security (Expert)
 ![TFLint](https://img.shields.io/badge/TFLint-5C4EE5?style=flat-square)
 ![tfsec](https://img.shields.io/badge/tfsec-D32F2F?style=flat-square)
 ![Checkov](https://img.shields.io/badge/Checkov-1F9D55?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Secret Scanning](https://img.shields.io/badge/Secret_Scanning-181717?style=flat-square&logo=github&logoColor=white)
 ![Governance](https://img.shields.io/badge/Policy_%26_Governance-D32F2F?style=flat-square)
+![Shift Left](https://img.shields.io/badge/Shift--Left_Security-D32F2F?style=flat-square)
+![Network Security](https://img.shields.io/badge/Network_Segmentation-D32F2F?style=flat-square)
 
 </td>
+<td width="50%" valign="top">
+
+### 💰 Cost Optimization (Expert)
+![FinOps](https://img.shields.io/badge/FinOps-00A86B?style=flat-square)
+![Cost Estimation](https://img.shields.io/badge/Pipeline_Cost_Estimation-00A86B?style=flat-square)
+![Right Sizing](https://img.shields.io/badge/Right--Sizing-00A86B?style=flat-square)
+![Autoscaling](https://img.shields.io/badge/Autoscaling_%26_Scheduling-00A86B?style=flat-square)
+![Cost Governance](https://img.shields.io/badge/Cost_Governance-00A86B?style=flat-square)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🐳 Containers & Kubernetes
@@ -97,27 +113,30 @@ I'm a **Lead DevSecOps Engineer** who designs and automates secure, scalable and
 ![Affinity](https://img.shields.io/badge/Affinity_%26_Scheduling-326CE5?style=flat-square)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-### 📊 Monitoring, FinOps & Databases
+### 📊 Monitoring & Databases
 ![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Log Analytics](https://img.shields.io/badge/Log_Analytics-0078D4?style=flat-square)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![FinOps](https://img.shields.io/badge/FinOps-00A86B?style=flat-square)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-### 🤖 Emerging Technologies
+### 🤖 Exploring & Learning: AIOps, MLOps, LLMs, RAG, MCP
 ![AIOps](https://img.shields.io/badge/AIOps-FF6F00?style=flat-square)
+![MLOps](https://img.shields.io/badge/MLOps-FF6F00?style=flat-square)
+![LLM](https://img.shields.io/badge/LLMs-FF6F00?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP_%28Model_Context_Protocol%29-FF6F00?style=flat-square)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-FF6F00?style=flat-square)
 ![AI DevOps](https://img.shields.io/badge/AI--Assisted_DevOps-FF6F00?style=flat-square)
 ![Intelligent Monitoring](https://img.shields.io/badge/Intelligent_Monitoring-FF6F00?style=flat-square)
@@ -154,21 +173,30 @@ I'm a **Lead DevSecOps Engineer** who designs and automates secure, scalable and
 - Application hosting on **Azure Container Apps** and **Azure Web Apps (App Service)**
 - End-to-end automated application delivery through CI/CD
 
-### 4️⃣ Observability, Monitoring & FinOps
+### 4️⃣ Security, Observability & Cost Optimization
 **Stack:** `Azure Monitor` `Log Analytics` `Datadog` `Prometheus` `Grafana` `Terraform`
 
+- Security-first design: network segmentation, policy and governance, least privilege and secret scanning
 - Infrastructure and application monitoring with **Azure Monitor and Log Analytics**
 - Metrics collection with **Prometheus** and dashboards and alerting in **Grafana**
 - Full-stack observability and alerting with **Datadog**
 - Terraform-based cost estimation before deployment
-- Resource optimization and cost-aware architecture decisions
+- Right-sizing, autoscaling and cost-aware architecture decisions
 
-### 5️⃣ Agentic AI & AIOps *(Learning in Progress)*
-**Stack:** `AI Agents` `LLMs` `Automation`
+### 5️⃣ AIOps & MLOps *(Exploring)*
+**Stack:** `AIOps` `MLOps` `Automation` `Observability Data`
 
-- Building AI agents for DevOps workflows
-- Intelligent incident analysis and troubleshooting
-- AI-assisted infrastructure operations
+- Exploring AIOps for anomaly detection, noise reduction and faster incident response
+- Learning MLOps practices: model lifecycle, versioning, deployment pipelines and monitoring
+- Applying DevSecOps discipline (security gates, approvals, cost control) to ML and AI workloads
+
+### 6️⃣ LLMs, RAG & MCP for Infrastructure Automation *(Learning in Progress)*
+**Stack:** `LLMs` `RAG` `MCP` `AI Agents`
+
+- Learning how **LLMs** can assist with troubleshooting, code review and incident analysis
+- Exploring **RAG** to ground AI answers in runbooks, documentation and infrastructure context
+- Learning **MCP (Model Context Protocol)** to connect AI agents safely to cloud and DevOps tools
+- Building towards AI agents for DevOps workflows with guardrails and human approval
 
 ---
 
@@ -183,6 +211,7 @@ flowchart LR
     E --> F{✅ Approval}
     F --> G[🚀 Deploy to Azure]
     G --> H[📊 Monitor]
+    H --> I[🤖 AIOps Insights]
 ```
 
 ---
@@ -192,9 +221,10 @@ flowchart LR
 - 🏛️ Enterprise Azure Landing Zone architecture
 - 📦 Terraform module design and governance
 - 🔐 Secure CI/CD and DevSecOps automation
+- 💰 Cloud cost optimization and FinOps
 - ☸️ Kubernetes and container orchestration
-- 💰 FinOps and cloud cost optimization
-- 🤖 Agentic AI and AIOps
+- 🤖 AIOps and MLOps
+- 🧠 Learning LLMs, RAG and MCP
 
 ---
 
@@ -211,14 +241,14 @@ flowchart LR
 
 ## 🤝 Let's Connect
 
-I'm open to conversations on **cloud architecture, DevSecOps, infrastructure automation, Kubernetes and AI-driven operations**.
+I'm open to conversations on **cloud security, cost optimization, DevSecOps, infrastructure automation, Kubernetes, AIOps, MLOps and AI-driven operations**.
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
-**Building infrastructure. Automating delivery. Securing the cloud. Exploring intelligent operations.**
+**Building infrastructure. Securing the cloud. Optimizing cost. Exploring intelligent operations.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B7C3,100:0078D4&height=100&section=footer" width="100%" alt="footer"/>
 
