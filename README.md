@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=46&amp;pause=1500&amp;color=0078D4&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=90&amp;lines=Pappu+Singh;Lead+DevSecOps+Engineer;Cloud+Security+%26+Cost+Optimization" alt="Pappu Singh"/>
+<h1 align="center">Pappu Singh</h1>
+
+<h3 align="center">Lead DevSecOps Engineer | Cloud Security &amp; Cost Optimization Expert</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1200&amp;color=0078D4&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Secure.+Scalable.+Automated.+Cost-Optimized.;Azure+Landing+Zones+%7C+Terraform+%7C+Kubernetes;Security+%26+Cost+Optimization+Expert;SQL+Server+%7C+PostgreSQL+%7C+MongoDB;Exploring+AIOps+%7C+MLOps+%7C+LLMs+%7C+RAG+%7C+MCP" alt="Typing animation"/>
 
