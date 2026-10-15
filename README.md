@@ -25,7 +25,8 @@ I'm a **Lead DevSecOps Engineer** who designs and automates secure, scalable and
 - 🏛️ **Azure Landing Zones** and Hub & Spoke architecture
 - 🏗️ **Terraform** Infrastructure as Code with reusable, governed modules
 - 🔁 **CI/CD automation** with security gates built into every pipeline
-- ☸️ **Kubernetes / AKS** for production container workloads
+- ☸️ **Kubernetes / AKS, Container Apps and Web Apps** for production workloads
+- 📊 **Observability** with Azure Monitor, Datadog, Prometheus and Grafana
 - 💰 **FinOps** and cloud cost optimization
 
 > 🚀 **Currently exploring:** Agentic AI, AIOps and intelligent infrastructure automation.
@@ -53,6 +54,8 @@ I'm a **Lead DevSecOps Engineer** who designs and automates secure, scalable and
 ### ☁️ Cloud & Architecture
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![IaaS](https://img.shields.io/badge/Azure_IaaS_%26_PaaS-0078D4?style=flat-square)
+![Container Apps](https://img.shields.io/badge/Azure_Container_Apps-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Web Apps](https://img.shields.io/badge/Azure_Web_Apps_%28App_Service%29-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Landing Zones](https://img.shields.io/badge/Landing_Zones-0078D4?style=flat-square)
 ![Hub Spoke](https://img.shields.io/badge/Hub_%26_Spoke-0078D4?style=flat-square)
 ![VNet](https://img.shields.io/badge/VNets_%26_Network_Security-0078D4?style=flat-square)
@@ -101,6 +104,9 @@ I'm a **Lead DevSecOps Engineer** who designs and automates secure, scalable and
 ### 📊 Monitoring, FinOps & Databases
 ![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Log Analytics](https://img.shields.io/badge/Log_Analytics-0078D4?style=flat-square)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![FinOps](https://img.shields.io/badge/FinOps-00A86B?style=flat-square)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -140,17 +146,20 @@ I'm a **Lead DevSecOps Engineer** who designs and automates secure, scalable and
 - Pull request validation and controlled deployments
 - **Manual approval gates** for production changes
 
-### 3️⃣ Docker, Kubernetes & AKS Delivery
-**Stack:** `Docker` `ACR` `AKS` `Helm`
+### 3️⃣ Docker, Kubernetes, Container Apps & Web Apps Delivery
+**Stack:** `Docker` `ACR` `AKS` `Helm` `Azure Container Apps` `Azure Web Apps`
 
 - Container image build and push workflows into Azure Container Registry
 - Kubernetes Deployments, Services, Ingress and autoscaling (HPA/VPA)
+- Application hosting on **Azure Container Apps** and **Azure Web Apps (App Service)**
 - End-to-end automated application delivery through CI/CD
 
-### 4️⃣ Cloud Monitoring & FinOps
-**Stack:** `Azure Monitor` `Log Analytics` `Terraform`
+### 4️⃣ Observability, Monitoring & FinOps
+**Stack:** `Azure Monitor` `Log Analytics` `Datadog` `Prometheus` `Grafana` `Terraform`
 
-- Infrastructure monitoring and operational visibility
+- Infrastructure and application monitoring with **Azure Monitor and Log Analytics**
+- Metrics collection with **Prometheus** and dashboards and alerting in **Grafana**
+- Full-stack observability and alerting with **Datadog**
 - Terraform-based cost estimation before deployment
 - Resource optimization and cost-aware architecture decisions
 
