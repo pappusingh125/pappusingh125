@@ -10,12 +10,12 @@
 
 # 👋 Hi, I'm Pappu Singh
 
-### Lead DevSecOps Engineer | DevOps | Kubernetes | Docker | Exploring AIOps, MLOps, LLM, MCP, RAG Architectures
+### Lead DevSecOps | CICD | Kubernetes | Docker | Exploring AIOps, MLOps, LLM, MCP, RAG Architectures
 
 
 # 💎 About Me
 
-I'm a **Lead DevSecOps Engineer** specializing in designing **secure, scalable, cost-optimized and automated cloud platforms on Microsoft Azure**, with deep expertise in **cloud security, cost optimization and database administration**.
+I'm a **Lead DevSecOps Engineer** specializing in designing **secure, scalable, cost-optimized and automated cloud platforms on Microsoft Azure**, with deep expertise in **cloud security, cost optimization, Automation, IaC and database administration**.
 
 I enjoy building **production-grade CI/CD pipelines, Infrastructure as Code, Kubernetes platforms, DevSecOps automation, cloud governance, enterprise landing zones, and zero-public-exposure architectures**, backed by hands-on **Microsoft SQL Server, PostgreSQL and MongoDB** expertise.
 
