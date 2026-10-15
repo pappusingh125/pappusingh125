@@ -1,225 +1,133 @@
-<!-- Replace YOUR_GITHUB_USERNAME, YOUR_LINKEDIN, and YOUR_EMAIL before publishing -->
+<!-- Replace YOUR_EMAIL and YOUR_PORTFOLIO_URL before publishing -->
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=24&amp;duration=3000&amp;pause=1000&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=DevSecOps+Lead;Azure+Cloud+%7C+Terraform+%7C+Kubernetes;Building+Secure+Cloud+Platforms;Security+%26+Cost+Optimization+Expert;Exploring+AIOps+%7C+MLOps;Learning+LLMs+%7C+MCP+%7C+RAG+Architectures" alt="Typing animation"/>
+</p>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00B7C3&height=190&section=header&text=Pappu%20Singh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Lead%20DevSecOps%20Engineer%20%7C%20Azure%20Cloud%20%7C%20Infrastructure%20Automation&descSize=17&descAlignY=58" width="100%" alt="Pappu Singh banner"/>
+# 👋 Hi, I'm Pappu Singh
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0078D4&center=true&vCenter=true&width=700&lines=Secure.+Scalable.+Automated.+Cost-Optimized.;Azure+Landing+Zones+%7C+Terraform+%7C+Kubernetes;DevSecOps+%E2%80%A2+FinOps+%E2%80%A2+AIOps" alt="Typing animation"/>
-</a>
+### Lead DevSecOps Engineer | Security & Cost Optimization Expert | Exploring AIOps, MLOps & Generative AI
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=26&amp;pause=1000&amp;color=0078D4&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=900&amp;lines=Lead+DevSecOps+Engineer;Cloud+Security+%26+Cost+Optimization;Terraform+%7C+Azure+DevOps+%7C+GitHub+Actions;AKS+%7C+Docker+%7C+Kubernetes;SQL+Server+%7C+PostgreSQL+%7C+MongoDB;Infrastructure+Automation;Always+Learning+New+Technologies" alt="Typing animation"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0078D4&style=for-the-badge)
+<a href="https://github.com/pappusingh125">
+<img src="https://img.shields.io/github/followers/pappusingh125?label=Followers&amp;style=for-the-badge&amp;logo=github" alt="GitHub followers"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pappu-singh-93a35334">
+<img src="https://img.shields.io/badge/LinkedIn-Pappu_Singh-blue?style=for-the-badge&amp;logo=linkedin" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&amp;logo=gmail" alt="Email"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=pappusingh125&amp;style=for-the-badge&amp;color=blue" alt="Profile views"/>
 
 </div>
 
----
 
-## 👨‍💻 About Me
+# 💎 About Me
 
-I'm a **Lead DevSecOps Engineer** who designs and automates secure, scalable and cost-optimized cloud platforms. My work spans **Cloud Infrastructure, DevOps, DevSecOps and Database Administration**, with deep focus on:
+I'm a **Lead DevSecOps Engineer** specializing in designing **secure, scalable, cost-optimized and automated cloud platforms on Microsoft Azure**, with deep expertise in **cloud security, cost optimization (FinOps) and database administration**.
 
-- 🏛️ **Azure Landing Zones** and Hub & Spoke architecture
-- 🏗️ **Terraform** Infrastructure as Code with reusable, governed modules
-- 🔁 **CI/CD automation** with security gates built into every pipeline
-- ☸️ **Kubernetes / AKS, Container Apps and Web Apps** for production workloads
-- 📊 **Observability** with Azure Monitor, Datadog, Prometheus and Grafana
-- 💰 **FinOps** and cloud cost optimization
-
-> 🚀 **Currently exploring:** Agentic AI, AIOps and intelligent infrastructure automation.
+I enjoy building **production-grade CI/CD pipelines, Infrastructure as Code, Kubernetes platforms, DevSecOps automation, cloud governance, enterprise landing zones, and secure, right-sized architectures**, backed by hands-on **Microsoft SQL Server, PostgreSQL and MongoDB** expertise.
 
 ---
+<img src="./assets/azure-landing-zone.svg" width="800" alt="Azure Landing Zone hub and spoke architecture"/>
+<br/><br/>
 
-## 🎯 Why Work With Me
+# Core Expertise
 
-| Strength | What I Bring |
-|---|---|
-| **Architecture** | Enterprise-grade Azure Landing Zones with proper network segmentation, HA and DR |
-| **Automation** | Fully codified infrastructure: repeatable, reviewable, version-controlled |
-| **Security-first** | Shift-left scanning (TFLint, tfsec, Checkov) and approval-gated production changes |
-| **Cost awareness** | Cost estimation in pipelines and right-sized, cost-aware design |
-| **Full-stack ops** | From cloud networking to Kubernetes to database administration |
+- ☁️ Enterprise Azure Landing Zone (CAF)
+- 🏗 Terraform Modular Infrastructure
+- ⚙️ Azure DevOps & GitHub Actions
+- ☸️ AKS & Container Platforms
+- 🔐 DevSecOps & Cloud Security
+- 💰 Cloud Cost Optimization & FinOps
+- 🛡 Azure Governance & Policy
+- 🌐 Hub-Spoke Networking
+- 🗄️ Database Administration (SQL Server, PostgreSQL, MongoDB)
+- 📊 Observability & Monitoring
+- ♻️ Disaster Recovery & Business Continuity
+- 🤖 Infrastructure Automation
 
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure,terraform,docker,kubernetes,githubactions,github,git,linux,powershell,python,postgres,mongodb&amp;perline=12" alt="Tech stack icons"/>
+</p>
 
-## 🛠️ Technology Stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 🗄️ Database Expertise
 
-### ☁️ Cloud & Architecture
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![IaaS](https://img.shields.io/badge/Azure_IaaS_%26_PaaS-0078D4?style=flat-square)
-![Container Apps](https://img.shields.io/badge/Azure_Container_Apps-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Web Apps](https://img.shields.io/badge/Azure_Web_Apps_%28App_Service%29-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Landing Zones](https://img.shields.io/badge/Landing_Zones-0078D4?style=flat-square)
-![Hub Spoke](https://img.shields.io/badge/Hub_%26_Spoke-0078D4?style=flat-square)
-![VNet](https://img.shields.io/badge/VNets_%26_Network_Security-0078D4?style=flat-square)
-![HA DR](https://img.shields.io/badge/HA_%26_DR-0078D4?style=flat-square)
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&amp;logo=microsoftsqlserver&amp;logoColor=white" alt="Microsoft SQL Server"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&amp;logo=oracle&amp;logoColor=white" alt="Oracle"/>
+</p>
 
-</td>
-<td width="50%" valign="top">
+- 🟥 **Microsoft SQL Server:** administration, performance tuning, backup & recovery, high availability and security hardening
+- 🐘 **PostgreSQL:** installation, configuration, replication, tuning and secure access management
+- 🍃 **MongoDB:** deployment, replica sets, indexing, performance and data protection
+- ☁️ **Azure data platforms:** secure, monitored and cost-optimized database hosting
+- 🔐 **Database security:** least-privilege access, encryption and auditing
+- 💰 **Database cost optimization:** right-sizing, storage and licensing awareness
 
-### ⚙️ DevOps & IaC
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Modules](https://img.shields.io/badge/Reusable_Modules-7B42BC?style=flat-square)
-![Remote State](https://img.shields.io/badge/Remote_State-7B42BC?style=flat-square)
-![CI/CD](https://img.shields.io/badge/CI%2FCD_Pipelines-2088FF?style=flat-square)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+## 🔐 Security & 💰 Cost Optimization
 
-### 🔐 DevSecOps & Security
-![TFLint](https://img.shields.io/badge/TFLint-5C4EE5?style=flat-square)
-![tfsec](https://img.shields.io/badge/tfsec-D32F2F?style=flat-square)
-![Checkov](https://img.shields.io/badge/Checkov-1F9D55?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Secret Scanning](https://img.shields.io/badge/Secret_Scanning-181717?style=flat-square&logo=github&logoColor=white)
-![Governance](https://img.shields.io/badge/Policy_%26_Governance-D32F2F?style=flat-square)
+- 🛡️ Shift-left security with **TFLint, tfsec and Checkov** on every change
+- 🔑 Secret scanning, policy and governance, least-privilege and network segmentation
+- ✅ Approval-gated production deployments
+- 📐 Terraform cost estimation inside pipelines, before deployment
+- 📉 Right-sizing, autoscaling and cost-aware architecture decisions
 
-</td>
-<td width="50%" valign="top">
 
-### 🐳 Containers & Kubernetes
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![AKS](https://img.shields.io/badge/AKS-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Ingress](https://img.shields.io/badge/Ingress_%7C_HPA_%7C_VPA-326CE5?style=flat-square)
-![Affinity](https://img.shields.io/badge/Affinity_%26_Scheduling-326CE5?style=flat-square)
+## 🌱 Currently Exploring
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<img src="./assets/aiops-llm-rag-mcp.svg" width="800" alt="AIOps, LLM, RAG and MCP flow with guardrails"/>
+<br/><br/>
 
-### 📊 Monitoring, FinOps & Databases
-![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Log Analytics](https://img.shields.io/badge/Log_Analytics-0078D4?style=flat-square)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![FinOps](https://img.shields.io/badge/FinOps-00A86B?style=flat-square)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+- 🤖 AIOps for intelligent DevOps automation
+- 🧠 MLOps workflows and ML platform engineering
+- 🦙 Large Language Models (LLMs)
+- 🔗 Model Context Protocol (MCP)
+- 📚 Retrieval Augmented Generation (RAG)
+- ☁️ AI-driven Cloud Operations
 
-</td>
-<td width="50%" valign="top">
 
-### 🤖 Emerging Technologies
-![AIOps](https://img.shields.io/badge/AIOps-FF6F00?style=flat-square)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-FF6F00?style=flat-square)
-![AI DevOps](https://img.shields.io/badge/AI--Assisted_DevOps-FF6F00?style=flat-square)
-![Intelligent Monitoring](https://img.shields.io/badge/Intelligent_Monitoring-FF6F00?style=flat-square)
+# 🎯 Professional Highlights
 
-</td>
-</tr>
-</table>
+- 🏢 **Lead DevSecOps Engineer**
+- ☁️ Microsoft Azure Specialist
+- 🏗 Terraform Enterprise Architectures
+- 🔐 Security Expert: Secure CI/CD & DevSecOps Automation
+- 💰 Cost Optimization Expert: FinOps & Cost-Aware Design
+- 🗄️ Database Expertise: SQL Server, PostgreSQL & MongoDB
+- 🌐 Hub-Spoke & Zero Public Exposure Designs
+- 📊 Enterprise Monitoring & Observability
+- ♻️ Disaster Recovery & High Availability Planning
 
----
 
-## 🏗️ Featured Engineering Projects
+# 📫 Connect With Me
 
-### 1️⃣ Azure Monolithic Infrastructure & Landing Zone
-**Stack:** `Terraform` `Azure` `Remote State`
+- 📧 **Email:** YOUR_EMAIL
+- 💼 **LinkedIn:** https://www.linkedin.com/in/pappu-singh-93a35334
+- 🐙 **GitHub:** https://github.com/pappusingh125
+- 🌐 **Portfolio:** YOUR_PORTFOLIO_URL
 
-- Enterprise-style Azure environment built entirely with Terraform
-- Reusable modules for resource groups, networking, subnets, VMs and security resources
-- Separate **Dev / QA / Prod** environments with consistent configuration
-- Remote state management and automated infrastructure validation
 
-### 2️⃣ DevSecOps CI/CD Pipelines
-**Stack:** `Azure DevOps` `GitHub Actions` `TFLint` `tfsec` `Checkov`
 
-- Automated Terraform `init`, `validate` and `plan` stages
-- Security scanning with **TFLint, tfsec and Checkov** on every change
-- Pull request validation and controlled deployments
-- **Manual approval gates** for production changes
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Automate+Everything.;Secure+by+Default.;Optimize+Every+Dollar.;Build+for+Scale." alt="Typing SVG"/>
+</p>
 
-### 3️⃣ Docker, Kubernetes, Container Apps & Web Apps Delivery
-**Stack:** `Docker` `ACR` `AKS` `Helm` `Azure Container Apps` `Azure Web Apps`
+<p align="center">
+  <img src="./assets/devsecops-pipeline.svg" width="900" alt="DevSecOps pipeline with security, cost and approval gates"/>
+</p>
 
-- Container image build and push workflows into Azure Container Registry
-- Kubernetes Deployments, Services, Ingress and autoscaling (HPA/VPA)
-- Application hosting on **Azure Container Apps** and **Azure Web Apps (App Service)**
-- End-to-end automated application delivery through CI/CD
-
-### 4️⃣ Observability, Monitoring & FinOps
-**Stack:** `Azure Monitor` `Log Analytics` `Datadog` `Prometheus` `Grafana` `Terraform`
-
-- Infrastructure and application monitoring with **Azure Monitor and Log Analytics**
-- Metrics collection with **Prometheus** and dashboards and alerting in **Grafana**
-- Full-stack observability and alerting with **Datadog**
-- Terraform-based cost estimation before deployment
-- Resource optimization and cost-aware architecture decisions
-
-### 5️⃣ Agentic AI & AIOps *(Learning in Progress)*
-**Stack:** `AI Agents` `LLMs` `Automation`
-
-- Building AI agents for DevOps workflows
-- Intelligent incident analysis and troubleshooting
-- AI-assisted infrastructure operations
-
----
-
-## 🔄 How I Build: My DevSecOps Flow
-
-```mermaid
-flowchart LR
-    A[💻 Code Commit] --> B[🔍 TFLint]
-    B --> C[🛡️ tfsec + Checkov]
-    C --> D[📐 Terraform Plan]
-    D --> E[💰 Cost Estimate]
-    E --> F{✅ Approval}
-    F --> G[🚀 Deploy to Azure]
-    G --> H[📊 Monitor]
-```
-
----
-
-## 🎯 Current Focus
-
-- 🏛️ Enterprise Azure Landing Zone architecture
-- 📦 Terraform module design and governance
-- 🔐 Secure CI/CD and DevSecOps automation
-- ☸️ Kubernetes and container orchestration
-- 💰 FinOps and cloud cost optimization
-- 🤖 Agentic AI and AIOps
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-I'm open to conversations on **cloud architecture, DevSecOps, infrastructure automation, Kubernetes and AI-driven operations**.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
-**Building infrastructure. Automating delivery. Securing the cloud. Exploring intelligent operations.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B7C3,100:0078D4&height=100&section=footer" width="100%" alt="footer"/>
-
-</div>
+<br/><br/>
