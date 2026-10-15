@@ -10,27 +10,7 @@
 
 # 👋 Hi, I'm Pappu Singh
 
-### Lead DevSecOps Engineer | Security & Cost Optimization Expert | Exploring AIOps, MLOps & Generative AI
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=26&amp;pause=1000&amp;color=0078D4&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=900&amp;lines=Lead+DevSecOps+Engineer;Terraform+%7C+Azure+DevOps+%7C+GitHub+Actions;AKS+%7C+Docker+%7C+Kubernetes;SQL+Server+%7C+PostgreSQL+%7C+MongoDB;Cloud+Security+%26+Cost+Optimization;Always+Learning+New+Technologies" alt="Typing animation"/>
-
-<br/>
-
-<a href="https://github.com/pappusingh125">
-<img src="https://img.shields.io/github/followers/pappusingh125?label=Followers&amp;style=for-the-badge&amp;logo=github" alt="GitHub followers"/>
-</a>
-
-<a href="https://www.linkedin.com/in/pappu-singh-93a35334/">
-<img src="https://img.shields.io/badge/LinkedIn-Pappu_Singh-blue?style=for-the-badge&amp;logo=linkedin" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:pappuks02@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&amp;logo=gmail" alt="Email"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=pappusingh125&amp;style=for-the-badge&amp;color=blue" alt="Profile views"/>
-
-</div>
+### Lead DevSecOps Engineer | DevOps | Kubernetes | Docker | Exploring AIOps, MLOps, LLM, MCP, RAG Architectures
 
 
 # 💎 About Me
