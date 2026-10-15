@@ -2,11 +2,11 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600" alt="Laptop Animation"/>
 </div>
 
-<p align="center">
+<p align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=24&amp;duration=3000&amp;pause=1000&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=DevSecOps+Lead;Azure+Cloud+%7C+Terraform+%7C+Kubernetes;Building+Secure+Cloud+Platforms;SQL+Server+%7C+PostgreSQL+%7C+MongoDB;Exploring+AIOps+%7C+MLOps;Learning+LLMs+%7C+MCP+%7C+RAG+Architectures" alt="Typing animation"/>
 </p>
 
-<div align="center">
+<div align="left">
 
 # 👋 Hi, I'm Pappu Singh
 
