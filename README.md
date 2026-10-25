@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,50:5C2D91,100:00B294&height=220&section=header&text=Pappu%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Architect%20%7C%20DevSecOps%20%7C%20Kubernetes%20%7C%20GitOps%20%7C%20AI%20%26%20Agentic%20Systems&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,50:5C2D91,100:00B294&height=220&section=header&text=Pappu%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Architect%20%7C%20DevSecOps%20Lead%20%7C%20Infrastructure%20as%20Code&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://github.com/pappusingh125">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B294&center=true&vCenter=true&width=700&lines=Designing+Secure+%26+Scalable+Azure+Landing+Zones;Running+Kubernetes+%2B+GitOps+at+Scale;Building+RAG+%26+Agentic+AI+Solutions+for+Cloud+Ops;Automating+Everything+with+Terraform+%2B+Azure+DevOps;Migrating+100%2B+Apps+with+Zero+Drama;Governance+%E2%80%A2+Security+%E2%80%A2+FinOps+%E2%80%A2+DR+%E2%80%A2+Observability" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B294&center=true&vCenter=true&width=700&lines=Designing+Secure+%26+Scalable+Azure+Landing+Zones;Running+Kubernetes+%2B+GitOps+at+Scale;Building+RAG+%26+Agentic+AI+Solutions+for+Cloud+Ops;Automating+Everything+with+Terraform+%2B+Azure+DevOps;Migrating+100%2B+Apps+and+Databases+with+Zero+Drama;Governance+%E2%80%A2+Security+%E2%80%A2+FinOps+%E2%80%A2+DR+%E2%80%A2+Observability" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,6 +25,7 @@ I'm a **Cloud & DevSecOps professional** who designs, automates and governs ente
 - 🔄 Leading **cloud migrations of 100+ applications** across Dev, UAT & Production
 - ⚙️ Building **Terraform-driven, pipeline-gated** infrastructure with built-in security
 - 🛡️ Embedding **governance, compliance, backup, DR & monitoring** by design
+- 🗄️ Managing **enterprise databases** across **SQL Server, Azure SQL, SQL MI, PostgreSQL and MongoDB**: migration, HA/DR, security and performance
 - ☸️ Running **containerized workloads on Kubernetes** with **GitOps-driven** delivery
 - 🤖 Exploring **LLMs, RAG and Agentic AI** to bring intelligence into DevSecOps, FinOps and cloud operations
 - 🤝 Managing **vendors, presales, proposals, POCs and delivery teams**
@@ -52,6 +53,14 @@ I'm a **Cloud & DevSecOps professional** who designs, automates and governs ente
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+**🗄️ Databases**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![SQL MI](https://img.shields.io/badge/Azure_SQL_MI-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 **🤖 AI & Agentic Stack (Exploring)**
 
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -70,6 +79,7 @@ I'm a **Cloud & DevSecOps professional** who designs, automates and governs ente
 | ☁️ **Cloud Architecture** | Landing Zones, Hub & Spoke, Management Groups, Subscription Design |
 | 🔐 **Security** | Entra ID, RBAC, Defender for Cloud, Azure Policy, Private Endpoints |
 | 🧱 **IaC & Automation** | Terraform modules, remote state, drift detection, policy-as-code |
+| 🗄️ **Databases** | SQL Server, Azure SQL, SQL MI, PostgreSQL, MongoDB: migration, HA/DR, security, tuning |
 | ☸️ **Containers & GitOps** | Docker, Kubernetes (AKS), Helm, Argo CD / Flux, policy & admission control |
 | 🤖 **AI & Agentic** | LLMs, RAG, vector search, AI agents, MCP, AIOps / FinOps automation |
 | 🚀 **CI/CD** | Azure Repos, multi-stage YAML pipelines, approvals, rollback |
@@ -123,6 +133,20 @@ I'm a **Cloud & DevSecOps professional** who designs, automates and governs ente
 - Branch policies: mandatory PRs, max reviewers, **CODEOWNERS**, **no deletion of `main`**
 - Reusable pipeline templates: `Validate & Test` → `Build` → `Deploy` → `Apply` → `Rollback`
 - Parallel jobs for faster, safer delivery
+
+</details>
+
+<details>
+<summary><b>🗄️ Database Engineering & Migration</b></summary>
+<br/>
+
+- **Platforms**: SQL Server, **Azure SQL Database**, **Azure SQL Managed Instance**, **PostgreSQL**, **MongoDB**
+- **Migration**: assessment, compatibility checks, right-sizing and cutover using Azure Database Migration Service, backup/restore and log shipping
+- **HA & DR**: Always On Availability Groups, failover groups, geo-replication, zone redundancy with defined **RTO / RPO**
+- **Security**: Entra ID authentication, private endpoints, TDE encryption, auditing, Defender for SQL, least-privilege access
+- **Backup & retention**: PITR and long-term retention policies aligned to compliance needs
+- **Performance & cost**: indexing, query tuning, monitoring, tier selection and reserved capacity
+- **IaC**: provisioning databases and policies through **Terraform** pipelines
 
 </details>
 
@@ -319,12 +343,14 @@ flowchart LR
 | [**rag-cloud-runbook-assistant**](https://github.com/pappusingh125) | RAG chatbot over SOPs, runbooks & architecture docs | `Python` `LLM` `RAG` |
 | [**agentic-devops-assistant**](https://github.com/pappusingh125) | AI agent for pipeline failure triage & Terraform plan review | `Agentic AI` `Azure DevOps` |
 | [**aks-gitops-starter**](https://github.com/pappusingh125) | AKS + Helm + Argo CD GitOps reference setup | `Kubernetes` `GitOps` |
+| [**database-migration-playbook**](https://github.com/pappusingh125) | SQL Server to Azure SQL / SQL MI / PostgreSQL migration checklists & HA/DR patterns | `SQL` `Migration` |
 | [**finops-optimization-toolkit**](https://github.com/pappusingh125) | Scripts to find idle resources & unattached disks | `PowerShell` `Azure CLI` |
 
 ---
 
 ## 🌱 Currently
 
+- 🗄️ Hands-on with **SQL Server, Azure SQL, SQL MI, PostgreSQL & MongoDB**
 - 🔭 Working on **enterprise-scale Azure landing zone automation**
 - 🤖 Exploring **LLMs, RAG and Agentic AI** for AIOps, FinOps and cloud governance
 - ☸️ Deepening skills in **Kubernetes, GitOps, Policy-as-Code & platform engineering**
