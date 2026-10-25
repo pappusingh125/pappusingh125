@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,50:5C2D91,100:00B294&height=220&section=header&text=Pappu%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Architect%20%7C%20DevSecOps%20Lead%20%7C%20Infrastructure%20as%20Code&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,50:5C2D91,100:00B294&height=220&section=header&text=Pappu%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Architect%20%7C%20DevSecOps%20%7C%20Kubernetes%20%7C%20GitOps%20%7C%20AI%20%26%20Agentic%20Systems&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://github.com/pappusingh125">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B294&center=true&vCenter=true&width=700&lines=Designing+Secure+%26+Scalable+Azure+Landing+Zones;Automating+Everything+with+Terraform+%2B+Azure+DevOps;Migrating+100%2B+Apps+with+Zero+Drama;Governance+%E2%80%A2+Security+%E2%80%A2+FinOps+%E2%80%A2+DR+%E2%80%A2+Observability" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B294&center=true&vCenter=true&width=700&lines=Designing+Secure+%26+Scalable+Azure+Landing+Zones;Running+Kubernetes+%2B+GitOps+at+Scale;Building+RAG+%26+Agentic+AI+Solutions+for+Cloud+Ops;Automating+Everything+with+Terraform+%2B+Azure+DevOps;Migrating+100%2B+Apps+with+Zero+Drama;Governance+%E2%80%A2+Security+%E2%80%A2+FinOps+%E2%80%A2+DR+%E2%80%A2+Observability" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,6 +25,8 @@ I'm a **Cloud & DevSecOps professional** who designs, automates and governs ente
 - 🔄 Leading **cloud migrations of 100+ applications** across Dev, UAT & Production
 - ⚙️ Building **Terraform-driven, pipeline-gated** infrastructure with built-in security
 - 🛡️ Embedding **governance, compliance, backup, DR & monitoring** by design
+- ☸️ Running **containerized workloads on Kubernetes** with **GitOps-driven** delivery
+- 🤖 Exploring **LLMs, RAG and Agentic AI** to bring intelligence into DevSecOps, FinOps and cloud operations
 - 🤝 Managing **vendors, presales, proposals, POCs and delivery teams**
 
 ---
@@ -37,12 +39,29 @@ I'm a **Cloud & DevSecOps professional** who designs, automates and governs ente
 ![Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![GitOps](https://img.shields.io/badge/GitOps-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+**🤖 AI & Agentic Stack (Exploring)**
+
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-00B294?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-5C2D91?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/Vector_DB-FF6F61?style=for-the-badge)
 
 </div>
 
@@ -51,6 +70,8 @@ I'm a **Cloud & DevSecOps professional** who designs, automates and governs ente
 | ☁️ **Cloud Architecture** | Landing Zones, Hub & Spoke, Management Groups, Subscription Design |
 | 🔐 **Security** | Entra ID, RBAC, Defender for Cloud, Azure Policy, Private Endpoints |
 | 🧱 **IaC & Automation** | Terraform modules, remote state, drift detection, policy-as-code |
+| ☸️ **Containers & GitOps** | Docker, Kubernetes (AKS), Helm, Argo CD / Flux, policy & admission control |
+| 🤖 **AI & Agentic** | LLMs, RAG, vector search, AI agents, MCP, AIOps / FinOps automation |
 | 🚀 **CI/CD** | Azure Repos, multi-stage YAML pipelines, approvals, rollback |
 | 📊 **Operations** | Azure Monitor, Backup, DR, HA, Observability |
 | 💰 **FinOps** | Rightsizing, reservations, idle resource cleanup, log cost control |
@@ -102,6 +123,32 @@ I'm a **Cloud & DevSecOps professional** who designs, automates and governs ente
 - Branch policies: mandatory PRs, max reviewers, **CODEOWNERS**, **no deletion of `main`**
 - Reusable pipeline templates: `Validate & Test` → `Build` → `Deploy` → `Apply` → `Rollback`
 - Parallel jobs for faster, safer delivery
+
+</details>
+
+<details>
+<summary><b>☸️ Containers, Kubernetes & GitOps</b></summary>
+<br/>
+
+- **Docker**: secure image builds, multi-stage Dockerfiles, image scanning, private registry (ACR)
+- **Kubernetes / AKS**: cluster design, namespaces, RBAC, network policies, ingress, autoscaling
+- **Helm** charts and reusable manifests for consistent application packaging
+- **GitOps** with **Argo CD / Flux**: Git as the single source of truth, auto-sync and drift correction
+- Secure supply chain: image scanning, secrets via Key Vault, policy enforcement at admission
+- Modernizing VM-based apps into **containerized, portable workloads**
+
+</details>
+
+<details>
+<summary><b>🤖 AI, LLMs, RAG & Agentic AI (Exploring & Building)</b></summary>
+<br/>
+
+- **LLMs**: prompt engineering and enterprise use via **Azure OpenAI** and other model APIs
+- **RAG**: grounding LLMs on internal runbooks, SOPs, architecture docs and policies using embeddings and vector search
+- **Agentic AI**: tool-using agents that can read, reason and act on cloud and DevOps workflows (with human approval gates)
+- **AIOps ideas**: AI-assisted incident triage, pipeline failure analysis, Terraform plan review
+- **FinOps with AI**: natural-language cost insights and automated rightsizing recommendations
+- **Responsible AI**: private endpoints, data privacy, access control and guardrails for AI workloads
 
 </details>
 
@@ -189,6 +236,34 @@ flowchart TD
     LZ --> Online["Online Apps"]
 ```
 
+## ☸️ GitOps Flow
+
+```mermaid
+flowchart LR
+    Dev["👨‍💻 Developer"] --> PR["📝 Pull Request"]
+    PR --> CI["🔧 CI: Build, Scan, Test"]
+    CI --> ACR["📦 Container Registry"]
+    CI --> Repo["📂 GitOps Repo (Manifests / Helm)"]
+    Repo --> Argo["🔁 Argo CD / Flux"]
+    Argo --> AKS["☸️ AKS Cluster"]
+    AKS -. drift detected .-> Argo
+```
+
+## 🤖 RAG + Agentic AI for Cloud Operations
+
+```mermaid
+flowchart LR
+    Docs["📚 SOPs, Runbooks, Architecture Docs"] --> Embed["🧬 Chunk + Embed"]
+    Embed --> VDB[("🗄️ Vector Store")]
+    User["🙋 Engineer Query"] --> Agent["🤖 AI Agent"]
+    Agent --> VDB
+    VDB --> Agent
+    Agent --> LLM["🧠 LLM"]
+    Agent --> Tools["🛠️ Tools: Azure CLI, Terraform, Monitor, Cost API"]
+    Tools --> Human{"✅ Human Approval"}
+    Human --> Action["⚡ Safe Action / Recommendation"]
+```
+
 ## 🔄 DevSecOps Pipeline Flow
 
 ```mermaid
@@ -233,7 +308,7 @@ flowchart LR
 
 ## 📌 Featured Work
 
-> 🛠️ *Replace the links below with your own repositories.*
+> 🛠️ *Point each link to your actual repository as you publish them.*
 
 | Project | Description | Tech |
 |---|---|---|
@@ -241,6 +316,9 @@ flowchart LR
 | [**terraform-reusable-modules**](https://github.com/pappusingh125) | Versioned, tested & linted module library | `Terraform` `IaC` |
 | [**azure-devops-pipeline-templates**](https://github.com/pappusingh125) | Validate → Build → Apply → Rollback templates | `YAML` `Azure DevOps` |
 | [**cloud-migration-playbook**](https://github.com/pappusingh125) | Discovery, cutover & hypercare checklists | `Docs` `Migration` |
+| [**rag-cloud-runbook-assistant**](https://github.com/pappusingh125) | RAG chatbot over SOPs, runbooks & architecture docs | `Python` `LLM` `RAG` |
+| [**agentic-devops-assistant**](https://github.com/pappusingh125) | AI agent for pipeline failure triage & Terraform plan review | `Agentic AI` `Azure DevOps` |
+| [**aks-gitops-starter**](https://github.com/pappusingh125) | AKS + Helm + Argo CD GitOps reference setup | `Kubernetes` `GitOps` |
 | [**finops-optimization-toolkit**](https://github.com/pappusingh125) | Scripts to find idle resources & unattached disks | `PowerShell` `Azure CLI` |
 
 ---
@@ -248,9 +326,10 @@ flowchart LR
 ## 🌱 Currently
 
 - 🔭 Working on **enterprise-scale Azure landing zone automation**
-- 📚 Deepening skills in **Policy-as-Code, Defender for Cloud & platform engineering**
+- 🤖 Exploring **LLMs, RAG and Agentic AI** for AIOps, FinOps and cloud governance
+- ☸️ Deepening skills in **Kubernetes, GitOps, Policy-as-Code & platform engineering**
 - 🤝 Open to collaborating on **Terraform, Azure governance and DevSecOps** projects
-- 💬 Ask me about **landing zones, migrations, IaC best practices, FinOps & team leadership**
+- 💬 Ask me about **landing zones, migrations, IaC, Kubernetes, GitOps, AI-driven operations, FinOps & team leadership**
 
 ---
 
@@ -258,8 +337,8 @@ flowchart LR
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-id)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pappu-singh-93a35334)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pappuks02@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pappusingh125)
 
 <br/>
